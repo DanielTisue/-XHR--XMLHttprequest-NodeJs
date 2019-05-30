@@ -4,13 +4,13 @@
 
 ## Summary
 
-    Everytime the page is refreshed ( **server restarted: (command line)**  *node app.js* ) a new 'Zen' quote is shown in the browser.
+Everytime the ** server restarted: **  a new 'Zen' quote is shown in the browser.
 
 * API courstey of: https://api.github.com/zen
 
 ### First...
 
-    When using this it is important to make sure you use an added dependency: 
+When using this it is important to make sure you use an added dependency: 
 
     npm i xmlhttprequest
 
